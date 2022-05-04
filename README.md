@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `后台服务`
 
-**json-server 启动5000端口号**
+**将 json-server 文件夹单独提出来，命令行输入 json-server --watch db.json --port 5000**
